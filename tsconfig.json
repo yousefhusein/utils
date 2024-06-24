@@ -13,6 +13,8 @@
     "strict": true,
     "skipLibCheck": true,
     "pretty": true,
+    "checkJs": false,
+    "composite": true
   },
   "include": [
     "./src"
